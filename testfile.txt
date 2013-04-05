@@ -1,1 +1,7 @@
 this is a new file
+
+updated on the develop branch
+
+adding a new forms auth feature
+
+version number 6.2
