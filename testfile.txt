@@ -5,3 +5,5 @@ updated on the develop branch
 adding a new forms auth feature
 
 version number 6.2
+
+update that goes in github feature
